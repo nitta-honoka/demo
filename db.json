@@ -10,5 +10,10 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "upload": {
+    "success": true,
+    "errorCode": "0",
+    "errorMsg": "success"
   }
 }
